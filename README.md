@@ -16,9 +16,9 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Github](https://your-live-site-url.com)
+- Live Site URL: [Github](https://webdesign-multimedia.github.io/SBA326/)
 
-## My process
+# My process
 
 ### Built with
 
